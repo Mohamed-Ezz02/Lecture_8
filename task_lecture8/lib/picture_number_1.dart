@@ -52,7 +52,7 @@ class MyShopScreen extends StatelessWidget {
                 style: TextStyle(
                   fontSize: 28,
                   fontWeight: FontWeight.bold,
-                  color: Colors.black, // تم تعديلها هنا لتجنب الخطأ
+                  color: Colors.black, 
                 ),
               ),
               SizedBox(height: 8),

@@ -118,7 +118,6 @@ class ProfileScreen extends StatelessWidget {
                 ),
               ),
 
-              // الخط الفاصل بين القسمين
               SizedBox(
                 height: 80,
                 child: VerticalDivider(
