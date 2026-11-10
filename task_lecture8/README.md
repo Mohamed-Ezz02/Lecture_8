@@ -1,17 +1,3 @@
-# task_lecture8
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="761" height="1600" alt="Screen_number_1" src="https://github.com/user-attachments/assets/ee467b15-7d7a-46ae-9e13-10f193822e4d" />
+<img width="760" height="1600" alt="Screen_number_2" src="https://github.com/user-attachments/assets/d860acb3-6510-44cb-9a43-859ae290e238" />
+<img width="760" height="1600" alt="Screen_number_3" src="https://github.com/user-attachments/assets/3f32a819-35d3-4791-bf6f-aef0ed97abc4" />
