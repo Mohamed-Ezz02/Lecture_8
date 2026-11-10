@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -50,7 +49,7 @@ class SettingsScreen extends StatelessWidget {
               Text(
                 "Do you want to save changes?",
                 style: TextStyle(
-                  fontSize: 22,
+                  fontSize: 19,
                   fontWeight: FontWeight.bold,
                   color: Colors.black,
                 ),
